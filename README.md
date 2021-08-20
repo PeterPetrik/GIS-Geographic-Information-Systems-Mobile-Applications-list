@@ -38,7 +38,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [OpenPaths](https://play.google.com/store/apps/details?id=com.nytco.rnd.OpenPaths)
 * [OruxMaps](https://play.google.com/store/apps/details?id=com.orux.oruxmaps)
 * [QGIS - Experimental](https://play.google.com/store/apps/details?id=org.qgis.qgis&hl=en)
-* 
+* [Input - QGIS in your pocket](https://play.google.com/store/apps/details?id=uk.co.lutraconsulting)
+*
 
 ### iOS
 * [Cadenza Mobile NG](https://itunes.apple.com/us/app/cadenza-mobile-ng/id1052754530?mt=8)
@@ -50,7 +51,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [OpenPaths](https://itunes.apple.com/app/openpaths/id493605283)
 * [OsmAnd Maps](https://itunes.apple.com/app/apple-store/id934850257?mt=8)
 * [Wolf-GIS APEX](https://itunes.apple.com/us/app/wolf-gis-apex/id430366157?mt=8)
-* 
+* [Input - QGIS in your pocket](https://apps.apple.com/us/app/input/id1478603559?ls=1)
 
 ### WindowsPhone
 * [ArcGIS](https://www.microsoft.com/en-us/store/p/arcgis/9nblggh0cbpx)
